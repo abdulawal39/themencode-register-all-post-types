@@ -2,8 +2,8 @@
 Contributors: ThemeNcode, abdulawal39
 Tags: Create All Post Types from Database, DB post types creation, Unavailable Post types creation
 Requires at least: 3.0
-Tested up to: 4.7
-Stable tag: 1.1
+Tested up to: 5.7.2
+Stable tag: 1.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -61,6 +61,9 @@ No, It will just create missing post types to get your hiddent content visible.
 Of course, Please use the support forum on wordpress.org or feel free to <a href="https://themencode.com/helpdesk" target="_blank">contact us</a>.
 
 == Changelog === 
+
+= 1.2 =
+* Code cleanup
 
 = 1.0 =
 * First Release.
